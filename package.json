@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "JavaScript development environment - Starter Kit",
   "scripts": {
+    "server": "node buildScripts/srcServer.js"
   },
   "author": "Markus Wälchli",
   "license": "MIT",
