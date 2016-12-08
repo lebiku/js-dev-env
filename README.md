@@ -14,5 +14,6 @@ Open Visual Studio Code in root directory and open inline terminal (Ctrl ¨).
 
 1. npm install (all packages in package.json are installed)
 2. For module security Checking run node security platform
-  1. npm install -g nsp
+  1. run `npm install -g nsp`
+  2. run `nsp check` in the command line
 
