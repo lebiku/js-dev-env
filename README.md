@@ -1,5 +1,6 @@
 # js-dev-env
 Javascript Development Environment - Starter Kit
+In order to edit/master this file check [Markdown](https://guides.github.com/features/mastering-markdown/)
 
 # Toolchain Decisions
 The toolchain decisions are critical. Consider it as a checklist or receipt and make sure that steps are not forgotten (critical) 
@@ -12,5 +13,5 @@ The toolchain decisions are critical. Consider it as a checklist or receipt and 
 Open Visual Studio Code in root directory and open inline terminal (Ctrl ¨).
 1. npm install (all packages in package.json are installed)
 2. For module security Checking run node security platform
-2.1 npm install -g nsp
+  * npm install -g nsp
 
